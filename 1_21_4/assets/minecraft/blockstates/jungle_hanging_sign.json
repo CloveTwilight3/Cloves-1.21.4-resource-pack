@@ -1,0 +1,53 @@
+{
+    "multipart": [
+        {
+            "apply": {
+                "model": "minecraft:block/jungle_hanging_sign"
+            }
+        },
+        {
+            "apply": {
+                "model": "minecraft:block/hanging_sign_chain"
+            },
+            "when": {
+                "attached": "false",
+                "rotation": "0"
+            }
+        },
+        {
+            "apply": {
+                "model": "minecraft:block/hanging_sign_chain",
+                "y": 90
+            },
+            "when": {
+                "attached": "false",
+                "rotation": "4"
+            }
+        },
+        {
+            "apply": {
+                "model": "minecraft:block/hanging_sign_chain",
+                "y": 180
+            },
+            "when": {
+                "attached": "false",
+                "rotation": "8"
+            }
+        },
+        {
+            "apply": {
+                "model": "minecraft:block/hanging_sign_chain",
+                "y": 270
+            },
+            "when": {
+                "attached": "false",
+                "rotation": "12"
+            }
+        }
+    ],
+    "license": "Apache-2.0",
+    "copyright": [
+        "Copyright (c) 2025 Mazey-Jessica Emily Twilight",
+        "Copyright (c) 2025 UnifiedGaming Systems Ltd (Company Number: 16108983)"
+    ]
+}

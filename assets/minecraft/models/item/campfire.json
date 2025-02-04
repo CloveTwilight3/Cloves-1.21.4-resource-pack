@@ -1,0 +1,28 @@
+{
+    "parent": "block/campfire",
+    "gui_light": "front",
+    "display": {
+        "gui": {
+            "rotation": [
+                30,
+                45,
+                0
+            ],
+            "translation": [
+                0,
+                1,
+                0
+            ],
+            "scale": [
+                0.625,
+                0.625,
+                0.625
+            ]
+        }
+    },
+    "license": "Apache-2.0",
+    "copyright": [
+        "Copyright (c) 2025 Mazey-Jessica Emily Twilight",
+        "Copyright (c) 2025 UnifiedGaming Systems Ltd (Company Number: 16108983)"
+    ]
+}

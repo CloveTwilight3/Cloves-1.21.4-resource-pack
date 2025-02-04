@@ -1,0 +1,26 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "block/warped_fungus"
+            },
+            {
+                "model": "block/warped_fungus",
+                "y": 90
+            },
+            {
+                "model": "block/warped_fungus",
+                "y": 180
+            },
+            {
+                "model": "block/warped_fungus",
+                "y": 270
+            }
+        ]
+    },
+    "license": "Apache-2.0",
+    "copyright": [
+        "Copyright (c) 2025 Mazey-Jessica Emily Twilight",
+        "Copyright (c) 2025 UnifiedGaming Systems Ltd (Company Number: 16108983)"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "block/sculk_catalyst_bottom",
+        "side": "block/sculk_catalyst_side",
+        "top": "block/sculk"
+    },
+    "license": "Apache-2.0",
+    "copyright": [
+        "Copyright (c) 2025 Mazey-Jessica Emily Twilight",
+        "Copyright (c) 2025 UnifiedGaming Systems Ltd (Company Number: 16108983)"
+    ]
+}

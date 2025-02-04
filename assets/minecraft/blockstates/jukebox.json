@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "has_record=false": {
+            "model": "block/jukebox"
+        },
+        "has_record=true": {
+            "model": "block/jukebox_on"
+        }
+    },
+    "license": "Apache-2.0",
+    "copyright": [
+        "Copyright (c) 2025 Mazey-Jessica Emily Twilight",
+        "Copyright (c) 2025 UnifiedGaming Systems Ltd (Company Number: 16108983)"
+    ]
+}

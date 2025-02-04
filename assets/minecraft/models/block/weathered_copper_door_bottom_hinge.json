@@ -1,0 +1,13 @@
+{
+    "parent": "block/copper_door_bottom_hinge",
+    "textures": {
+        "bottom": "block/weathered_copper_door_bottom",
+        "bottom1": "block/weathered_copper_door_bottom1",
+        "particle": "block/weathered_copper_door_bottom"
+    },
+    "license": "Apache-2.0",
+    "copyright": [
+        "Copyright (c) 2025 Mazey-Jessica Emily Twilight",
+        "Copyright (c) 2025 UnifiedGaming Systems Ltd (Company Number: 16108983)"
+    ]
+}

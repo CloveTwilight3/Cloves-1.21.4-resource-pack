@@ -1,0 +1,126 @@
+{
+    "textureSize": [
+        32,
+        32
+    ],
+    "shadowSize": 0.4,
+    "models": [
+        {
+            "model": "salmon_body_front.jpm",
+            "part": "body_front",
+            "translate": [
+                0,
+                0,
+                0
+            ],
+            "rotate": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "model": "salmon_body_back.jpm",
+            "part": "body_back",
+            "translate": [
+                0,
+                0,
+                0
+            ],
+            "rotate": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "model": "salmon_head.jpm",
+            "part": "head",
+            "translate": [
+                0,
+                0,
+                0
+            ],
+            "rotate": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "model": "salmon_fin_back_1.jpm",
+            "part": "fin_back_1",
+            "translate": [
+                0,
+                0,
+                0
+            ],
+            "rotate": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "model": "salmon_fin_back_2.jpm",
+            "part": "fin_back_2",
+            "translate": [
+                0,
+                0,
+                0
+            ],
+            "rotate": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "model": "salmon_fin_right.jpm",
+            "part": "fin_right",
+            "translate": [
+                0,
+                0,
+                0
+            ],
+            "rotate": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "model": "salmon_fin_left.jpm",
+            "part": "fin_left",
+            "translate": [
+                0,
+                0,
+                0
+            ],
+            "rotate": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "model": "salmon_tail.jpm",
+            "part": "tail",
+            "translate": [
+                0,
+                0,
+                0
+            ],
+            "rotate": [
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "license": "Apache-2.0",
+    "copyright": [
+        "Copyright (c) 2025 Mazey-Jessica Emily Twilight",
+        "Copyright (c) 2025 UnifiedGaming Systems Ltd (Company Number: 16108983)"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "parent": "block/copper_trapdoor_top_open",
+    "textures": {
+        "particle": "block/weathered_copper_trapdoor",
+        "texture": "block/weathered_copper_trapdoor",
+        "texture1": "block/weathered_copper_trapdoor1",
+        "texture2": "block/weathered_copper_trapdoor2"
+    },
+    "license": "Apache-2.0",
+    "copyright": [
+        "Copyright (c) 2025 Mazey-Jessica Emily Twilight",
+        "Copyright (c) 2025 UnifiedGaming Systems Ltd (Company Number: 16108983)"
+    ]
+}

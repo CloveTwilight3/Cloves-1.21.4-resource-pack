@@ -1,0 +1,13 @@
+{
+    "parent": "item/glass_pane",
+    "textures": {
+        "glass": "block/white_stained_glass",
+        "side": "block/white_stained_glass_pane_top",
+        "particle": "block/white_stained_glass"
+    },
+    "license": "Apache-2.0",
+    "copyright": [
+        "Copyright (c) 2025 Mazey-Jessica Emily Twilight",
+        "Copyright (c) 2025 UnifiedGaming Systems Ltd (Company Number: 16108983)"
+    ]
+}

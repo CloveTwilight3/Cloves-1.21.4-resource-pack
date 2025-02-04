@@ -1,0 +1,13 @@
+{
+    "parent": "item/item_frame",
+    "textures": {
+        "particle": "item/glow_item_frame",
+        "layer0": "item/glow_item_frame",
+        "layer1": "item/glow_item_frame_empty"
+    },
+    "license": "Apache-2.0",
+    "copyright": [
+        "Copyright (c) 2025 Mazey-Jessica Emily Twilight",
+        "Copyright (c) 2025 UnifiedGaming Systems Ltd (Company Number: 16108983)"
+    ]
+}

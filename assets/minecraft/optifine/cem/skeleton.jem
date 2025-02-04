@@ -1,0 +1,112 @@
+{
+    "textureSize": [
+        64,
+        32
+    ],
+    "shadowSize": 0.5,
+    "models": [
+        {
+            "model": "null.jpm",
+            "part": "headwear",
+            "translate": [
+                0,
+                -24,
+                0
+            ],
+            "rotate": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "model": "skeleton_head.jpm",
+            "part": "head",
+            "translate": [
+                0,
+                0,
+                0
+            ],
+            "rotate": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "model": "skeleton_body.jpm",
+            "part": "body",
+            "translate": [
+                0,
+                0,
+                0
+            ],
+            "rotate": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "model": "skeleton_limbs.jpm",
+            "part": "left_arm",
+            "translate": [
+                -8,
+                -2,
+                -8
+            ],
+            "rotate": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "model": "skeleton_limbs.jpm",
+            "part": "right_arm",
+            "translate": [
+                -8,
+                -2,
+                -8
+            ],
+            "rotate": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "model": "skeleton_limbs.jpm",
+            "part": "left_leg",
+            "translate": [
+                -8,
+                0,
+                -8
+            ],
+            "rotate": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "model": "skeleton_limbs.jpm",
+            "part": "right_leg",
+            "translate": [
+                -8,
+                0,
+                -8
+            ],
+            "rotate": [
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "license": "Apache-2.0",
+    "copyright": [
+        "Copyright (c) 2025 Mazey-Jessica Emily Twilight",
+        "Copyright (c) 2025 UnifiedGaming Systems Ltd (Company Number: 16108983)"
+    ]
+}

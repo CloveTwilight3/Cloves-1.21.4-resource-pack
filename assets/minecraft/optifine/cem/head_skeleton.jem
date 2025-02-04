@@ -1,0 +1,28 @@
+{
+    "textureSize": [
+        64,
+        32
+    ],
+    "shadowSize": 0.5,
+    "models": [
+        {
+            "model": "skeleton_head.jpm",
+            "part": "head",
+            "translate": [
+                0,
+                0,
+                0
+            ],
+            "rotate": [
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "license": "Apache-2.0",
+    "copyright": [
+        "Copyright (c) 2025 Mazey-Jessica Emily Twilight",
+        "Copyright (c) 2025 UnifiedGaming Systems Ltd (Company Number: 16108983)"
+    ]
+}

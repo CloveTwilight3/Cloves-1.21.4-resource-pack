@@ -1,0 +1,13 @@
+{
+    "ambientocclusion": false,
+    "parent": "block/oak_door_bottom",
+    "textures": {
+        "layer0": "block/iron_door_bottom1",
+        "particle": "block/iron_door_bottom"
+    },
+    "license": "Apache-2.0",
+    "copyright": [
+        "Copyright (c) 2025 Mazey-Jessica Emily Twilight",
+        "Copyright (c) 2025 UnifiedGaming Systems Ltd (Company Number: 16108983)"
+    ]
+}

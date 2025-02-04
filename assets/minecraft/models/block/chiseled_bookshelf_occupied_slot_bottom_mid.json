@@ -1,0 +1,67 @@
+{
+    "textures": {
+        "texture": "block/chiseled_bookshelf_occupied",
+        "particle": "block/chiseled_bookshelf_side"
+    },
+    "elements": [
+        {
+            "from": [
+                6,
+                1,
+                1
+            ],
+            "to": [
+                10,
+                6,
+                6
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        6,
+                        10,
+                        10,
+                        15
+                    ],
+                    "texture": "#texture",
+                    "cullface": "north"
+                },
+                "east": {
+                    "uv": [
+                        10,
+                        10,
+                        6,
+                        15
+                    ],
+                    "texture": "#texture",
+                    "cullface": "north"
+                },
+                "west": {
+                    "uv": [
+                        10,
+                        10,
+                        6,
+                        15
+                    ],
+                    "texture": "#texture",
+                    "cullface": "north"
+                },
+                "up": {
+                    "uv": [
+                        10,
+                        13,
+                        6,
+                        15
+                    ],
+                    "texture": "#texture",
+                    "cullface": "north"
+                }
+            }
+        }
+    ],
+    "license": "Apache-2.0",
+    "copyright": [
+        "Copyright (c) 2025 Mazey-Jessica Emily Twilight",
+        "Copyright (c) 2025 UnifiedGaming Systems Ltd (Company Number: 16108983)"
+    ]
+}

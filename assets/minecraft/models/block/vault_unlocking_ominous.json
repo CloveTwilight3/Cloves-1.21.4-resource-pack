@@ -1,0 +1,14 @@
+{
+    "parent": "block/vault_ominous",
+    "textures": {
+        "bottom": "block/vault_bottom_ominous",
+        "front": "block/vault_front_ejecting_ominous",
+        "side": "block/vault_side_on_ominous",
+        "top": "block/vault_top_ominous"
+    },
+    "license": "Apache-2.0",
+    "copyright": [
+        "Copyright (c) 2025 Mazey-Jessica Emily Twilight",
+        "Copyright (c) 2025 UnifiedGaming Systems Ltd (Company Number: 16108983)"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "multipart": [
+        {
+            "apply": {
+                "model": "minecraft:block/acacia_hanging_sign"
+            }
+        },
+        {
+            "apply": {
+                "model": "minecraft:block/wall_hanging_sign_chain"
+            },
+            "when": {
+                "facing": "north"
+            }
+        },
+        {
+            "apply": {
+                "model": "minecraft:block/wall_hanging_sign_chain",
+                "y": 90
+            },
+            "when": {
+                "facing": "east"
+            }
+        },
+        {
+            "apply": {
+                "model": "minecraft:block/wall_hanging_sign_chain",
+                "y": 180
+            },
+            "when": {
+                "facing": "south"
+            }
+        },
+        {
+            "apply": {
+                "model": "minecraft:block/wall_hanging_sign_chain",
+                "y": 270
+            },
+            "when": {
+                "facing": "west"
+            }
+        }
+    ],
+    "license": "Apache-2.0",
+    "copyright": [
+        "Copyright (c) 2025 Mazey-Jessica Emily Twilight",
+        "Copyright (c) 2025 UnifiedGaming Systems Ltd (Company Number: 16108983)"
+    ]
+}
